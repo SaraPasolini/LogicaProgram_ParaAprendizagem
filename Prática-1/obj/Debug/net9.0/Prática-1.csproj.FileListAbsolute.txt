@@ -1,0 +1,15 @@
+C:\Users\saraa\Lógica_Treino\LogicaProgram_ParaAprendizagem\Prática-1\bin\Debug\net9.0\Prática-1.exe
+C:\Users\saraa\Lógica_Treino\LogicaProgram_ParaAprendizagem\Prática-1\bin\Debug\net9.0\Prática-1.deps.json
+C:\Users\saraa\Lógica_Treino\LogicaProgram_ParaAprendizagem\Prática-1\bin\Debug\net9.0\Prática-1.runtimeconfig.json
+C:\Users\saraa\Lógica_Treino\LogicaProgram_ParaAprendizagem\Prática-1\bin\Debug\net9.0\Prática-1.dll
+C:\Users\saraa\Lógica_Treino\LogicaProgram_ParaAprendizagem\Prática-1\bin\Debug\net9.0\Prática-1.pdb
+C:\Users\saraa\Lógica_Treino\LogicaProgram_ParaAprendizagem\Prática-1\obj\Debug\net9.0\Prática-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saraa\Lógica_Treino\LogicaProgram_ParaAprendizagem\Prática-1\obj\Debug\net9.0\Prática-1.AssemblyInfoInputs.cache
+C:\Users\saraa\Lógica_Treino\LogicaProgram_ParaAprendizagem\Prática-1\obj\Debug\net9.0\Prática-1.AssemblyInfo.cs
+C:\Users\saraa\Lógica_Treino\LogicaProgram_ParaAprendizagem\Prática-1\obj\Debug\net9.0\Prática-1.csproj.CoreCompileInputs.cache
+C:\Users\saraa\Lógica_Treino\LogicaProgram_ParaAprendizagem\Prática-1\obj\Debug\net9.0\Prática-1.sourcelink.json
+C:\Users\saraa\Lógica_Treino\LogicaProgram_ParaAprendizagem\Prática-1\obj\Debug\net9.0\Prática-1.dll
+C:\Users\saraa\Lógica_Treino\LogicaProgram_ParaAprendizagem\Prática-1\obj\Debug\net9.0\refint\Prática-1.dll
+C:\Users\saraa\Lógica_Treino\LogicaProgram_ParaAprendizagem\Prática-1\obj\Debug\net9.0\Prática-1.pdb
+C:\Users\saraa\Lógica_Treino\LogicaProgram_ParaAprendizagem\Prática-1\obj\Debug\net9.0\Prática-1.genruntimeconfig.cache
+C:\Users\saraa\Lógica_Treino\LogicaProgram_ParaAprendizagem\Prática-1\obj\Debug\net9.0\ref\Prática-1.dll
